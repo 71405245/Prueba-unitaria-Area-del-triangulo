@@ -2,5 +2,5 @@
 
 | APELLIDOS Y NOMBRES | ROL | 
 |---------------------|---|
-| Acevedo Ura Smtih| Desarrollador 1 |
+| Acevedo Ura Jordan Smith| Desarrollador 1 |
 | Iturrizaga Campean Geraldine| Desarrollador 2 |
